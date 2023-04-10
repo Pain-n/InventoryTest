@@ -395,3 +395,4 @@ FodyWeavers.xsd
 *.sln.iml
 .vs/ProjectSettings.json
 .vs/slnx.sqlite
+Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld
